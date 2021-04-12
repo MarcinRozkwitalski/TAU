@@ -53,14 +53,14 @@ public class MathTest {
     public void charComparison01() {
         boolean result = math.charComparison('D', 'D');
         assertFalse(result);
-        System.out.println("Test signsComparison01");
+        System.out.println("Test charComparison01");
     }
 
     @Test
     public void charComparison02() {
         boolean result = math.charComparison('F', 'Z');
         assertTrue(result);
-        System.out.println("Test signsComparison02");
+        System.out.println("Test charComparison02");
     }
 
     @Test
