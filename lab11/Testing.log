@@ -1,0 +1,16 @@
+2021-06-01 14:30:20,526:INFO:Test from 'log.py' has been started
+2021-06-01 14:30:20,527:DEBUG:Adding two numbers: 7 + 13 
+2021-06-01 14:30:20,527:INFO:20
+2021-06-01 14:30:20,527:DEBUG:Multiplying two numbers: 7 * 13 
+2021-06-01 14:30:20,527:INFO:91
+2021-06-01 14:30:20,527:DEBUG:Adding two numbers: b + a 
+2021-06-01 14:30:20,527:ERROR:ba
+2021-06-01 14:30:20,527:DEBUG:Multiplying two numbers: a * b 
+2021-06-01 14:31:14,401:INFO:Test from 'log.py' has been started
+2021-06-01 14:31:14,401:DEBUG:Adding two numbers: 7 + 13 
+2021-06-01 14:31:14,401:INFO:20
+2021-06-01 14:31:14,401:DEBUG:Multiplying two numbers: 7 * 13 
+2021-06-01 14:31:14,401:INFO:91
+2021-06-01 14:31:14,401:DEBUG:Adding two numbers: b + a 
+2021-06-01 14:31:14,401:ERROR:ba
+2021-06-01 14:31:14,402:DEBUG:Multiplying two numbers: a * b 
